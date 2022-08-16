@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VeeRu
 - 👀 I’m interested in Competitive Programming and Web Development.
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on Full Stack Software Development projects.
+- 💞️ I’m looking to collaborate on Front End Development projects.
 
 
 <!---
